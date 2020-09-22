@@ -1,6 +1,16 @@
 # arraySort
 A simple command line interface which sorts three different types of arrays. Created for COSC 499, first group project
 
+## Usage guide
+
+The program is run from the command line; open a terminal in the parent directory and type
+
+```
+python main.py
+```
+
+## Tasks
+
 Tasks are assigned as following:
 
 * Feature-SortIntegers -> Nathan

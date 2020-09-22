@@ -9,4 +9,5 @@ Tasks are assigned as following:
 * Feature-SortStrings -> Barret 
 ** sortStringList(list) uses quicksort to sort an array of strings and returns the array in ascending order
 
-* Feature-SortCharacters -> Gerardo
+* Feature-SortCharacters -> Gerardo 
+** sortCharacterList(list) uses bubble sort to sort an array of chars and returns the array in ascending order

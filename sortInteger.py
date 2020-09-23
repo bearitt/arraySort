@@ -2,6 +2,7 @@
 def sortIntegerList(list):
 
     # INSERTION SORT
+    
     for i in range(0,len(list)):
         item = list[i]
         count = i - 1
